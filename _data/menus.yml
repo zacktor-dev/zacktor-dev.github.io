@@ -1,5 +1,8 @@
 ---
 main:
+- url: "/test.html"
+  weight: 2
+  title: test
 - identifier: home
   url: "/"
   weight: 1

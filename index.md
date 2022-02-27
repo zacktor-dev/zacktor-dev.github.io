@@ -14,14 +14,5 @@ page_sections:
   headline: hello
   slug: ''
   content: Hello luyaa
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: Hello
-  content: <img src="/uploads/2018/06/21/edit.gif">
-  slug: ''
-  media:
-    image: ''
-    alt_text: ''
 
 ---

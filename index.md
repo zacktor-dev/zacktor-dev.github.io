@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: simple-header
   block: header-3
-  logo: ''
+  logo: "/uploads/2018/06/21/forestry-full.svg"
 - template: 1-column-text
   block: one-column-1
   headline: hello

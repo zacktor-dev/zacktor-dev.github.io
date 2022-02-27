@@ -8,7 +8,7 @@ page_sections:
   navigation:
   - link_text: Gogo
     link: Home
-  logo: "/uploads/2018/06/21/forestry-symbol.svg"
+  logo: "/uploads/2018/06/21/forestry-full.svg"
 - template: 1-column-text
   block: one-column-1
   headline: hello
